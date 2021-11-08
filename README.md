@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HelloJeong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋,  
+I am Yeonkwang Jeong who is interested in Full Stack Development from South Korea.
+If you want to contact me, please leave me a message!
 
-<!---
-HelloJeong/HelloJeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning DevOps. Docker, AWS, etc. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloJeong)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloJeong&show_icons=true)  
+
